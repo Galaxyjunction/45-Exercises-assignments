@@ -1,0 +1,16 @@
+{
+  "name": "ex-31",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main .js",
+  "module": "node_modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
